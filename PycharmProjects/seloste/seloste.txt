@@ -1,0 +1,775 @@
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2017M07" neljänneksellä 6.2 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2017M07" neljänneksellä 7.6 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2017M07" neljänneksellä 4.4 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2017M07" neljänneksellä 4.4 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2017M07" neljänneksellä 2.8 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2017M07" neljänneksellä 11.0 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2017M07" neljänneksellä 8.5 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2017M07" neljänneksellä 3.1 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto ei kasvanut eikä supistunut "2017M07" neljänneksellä.
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2017M07" neljänneksellä 5.6 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2017M07" neljänneksellä 4.0 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2017M07" neljänneksellä 9.4 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2017M07" neljänneksellä 2.2 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2017M07" neljänneksellä 5.1 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2017M07" neljänneksellä -2.9 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2017M07" neljänneksellä 4.4 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2017M07" neljänneksellä 6.6 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2017M07" neljänneksellä 0.5 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2017M07" neljänneksellä 9.6 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2017M07" neljänneksellä 18.0 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2017M07" neljänneksellä 8.1 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2017M07" neljänneksellä 13.2 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2017M07" neljänneksellä 7.7 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2017M07" neljänneksellä 10.3 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2017M07" neljänneksellä 16.8 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2017M08" neljänneksellä 7.1 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2017M08" neljänneksellä 7.5 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2017M08" neljänneksellä 7.5 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2017M08" neljänneksellä 5.5 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2017M08" neljänneksellä 5.3 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2017M08" neljänneksellä 8.8 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2017M08" neljänneksellä 8.9 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2017M08" neljänneksellä 7.2 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2017M08" neljänneksellä 2.0 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2017M08" neljänneksellä 5.0 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2017M08" neljänneksellä 7.9 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2017M08" neljänneksellä 9.1 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2017M08" neljänneksellä 10.0 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2017M08" neljänneksellä 6.7 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2017M08" neljänneksellä -6.4 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2017M08" neljänneksellä 9.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2017M08" neljänneksellä 7.1 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2017M08" neljänneksellä 0.2 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2017M08" neljänneksellä 15.9 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2017M08" neljänneksellä 15.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2017M08" neljänneksellä 10.6 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2017M08" neljänneksellä 11.3 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2017M08" neljänneksellä -1.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2017M08" neljänneksellä 1.1 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2017M08" neljänneksellä 11.5 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2017M09" neljänneksellä 4.8 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2017M09" neljänneksellä 5.2 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2017M09" neljänneksellä 6.6 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2017M09" neljänneksellä 2.7 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2017M09" neljänneksellä 2.9 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2017M09" neljänneksellä 3.6 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2017M09" neljänneksellä 10.4 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2017M09" neljänneksellä 5.0 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2017M09" neljänneksellä 0.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2017M09" neljänneksellä 3.1 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2017M09" neljänneksellä -2.7 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2017M09" neljänneksellä 7.3 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2017M09" neljänneksellä 9.2 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2017M09" neljänneksellä 5.8 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2017M09" neljänneksellä -9.2 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2017M09" neljänneksellä 14.1 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2017M09" neljänneksellä 1.9 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto ei kasvanut eikä supistunut "2017M09" neljänneksellä.
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2017M09" neljänneksellä 9.1 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2017M09" neljänneksellä 18.3 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2017M09" neljänneksellä 5.9 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2017M09" neljänneksellä 4.3 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2017M09" neljänneksellä -12.3 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2017M09" neljänneksellä 4.8 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2017M09" neljänneksellä 5.5 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2017M10" neljänneksellä 7.2 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2017M10" neljänneksellä 9.6 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2017M10" neljänneksellä 5.1 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2017M10" neljänneksellä 4.1 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2017M10" neljänneksellä 4.3 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2017M10" neljänneksellä 6.2 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2017M10" neljänneksellä 13.0 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2017M10" neljänneksellä 7.2 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2017M10" neljänneksellä 4.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2017M10" neljänneksellä 8.4 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2017M10" neljänneksellä 6.3 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2017M10" neljänneksellä 11.5 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2017M10" neljänneksellä 7.4 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2017M10" neljänneksellä 4.5 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2017M10" neljänneksellä -10.9 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2017M10" neljänneksellä 19.9 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2017M10" neljänneksellä 3.0 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2017M10" neljänneksellä 0.4 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2017M10" neljänneksellä 12.0 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2017M10" neljänneksellä 21.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2017M10" neljänneksellä 10.7 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2017M10" neljänneksellä 1.0 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2017M10" neljänneksellä 1.3 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2017M10" neljänneksellä 8.7 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2017M10" neljänneksellä 13.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2017M11" neljänneksellä 7.0 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2017M11" neljänneksellä 8.4 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2017M11" neljänneksellä 9.0 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2017M11" neljänneksellä 3.2 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2017M11" neljänneksellä 4.7 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2017M11" neljänneksellä 8.4 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2017M11" neljänneksellä 10.4 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2017M11" neljänneksellä 6.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2017M11" neljänneksellä 3.6 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2017M11" neljänneksellä 7.0 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2017M11" neljänneksellä 5.2 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2017M11" neljänneksellä 8.3 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2017M11" neljänneksellä 11.2 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2017M11" neljänneksellä 8.4 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2017M11" neljänneksellä -14.8 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2017M11" neljänneksellä 10.7 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2017M11" neljänneksellä 0.8 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2017M11" neljänneksellä 0.9 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2017M11" neljänneksellä 12.3 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2017M11" neljänneksellä 30.0 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2017M11" neljänneksellä 9.8 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2017M11" neljänneksellä 8.6 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2017M11" neljänneksellä 2.0 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2017M11" neljänneksellä 7.9 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2017M11" neljänneksellä 10.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2017M12" neljänneksellä 4.0 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2017M12" neljänneksellä 3.2 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2017M12" neljänneksellä 9.1 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2017M12" neljänneksellä 3.0 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2017M12" neljänneksellä 3.6 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2017M12" neljänneksellä 3.7 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2017M12" neljänneksellä 6.0 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2017M12" neljänneksellä 2.7 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2017M12" neljänneksellä 1.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2017M12" neljänneksellä 2.4 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2017M12" neljänneksellä -4.5 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2017M12" neljänneksellä 4.6 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2017M12" neljänneksellä 13.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2017M12" neljänneksellä 7.8 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2017M12" neljänneksellä -10.2 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2017M12" neljänneksellä 36.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2017M12" neljänneksellä -5.4 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2017M12" neljänneksellä 3.8 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2017M12" neljänneksellä 6.2 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2017M12" neljänneksellä 14.7 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2017M12" neljänneksellä 8.9 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto supistui "2017M12" neljänneksellä -0.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2017M12" neljänneksellä 2.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2017M12" neljänneksellä 3.2 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2017M12" neljänneksellä 5.9 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M01" neljänneksellä 5.6 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M01" neljänneksellä 8.1 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M01" neljänneksellä 6.8 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M01" neljänneksellä 1.4 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M01" neljänneksellä 2.9 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M01" neljänneksellä 9.0 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M01" neljänneksellä 10.9 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M01" neljänneksellä -2.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M01" neljänneksellä 2.2 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M01" neljänneksellä 8.1 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2018M01" neljänneksellä 0.5 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M01" neljänneksellä 11.3 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M01" neljänneksellä 9.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M01" neljänneksellä 6.1 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M01" neljänneksellä -12.1 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M01" neljänneksellä 6.3 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M01" neljänneksellä -16.6 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M01" neljänneksellä 0.4 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M01" neljänneksellä 10.3 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M01" neljänneksellä 9.1 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M01" neljänneksellä 13.2 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M01" neljänneksellä 8.4 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M01" neljänneksellä 1.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M01" neljänneksellä 2.3 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M01" neljänneksellä 9.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M02" neljänneksellä 4.5 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M02" neljänneksellä 4.4 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M02" neljänneksellä 3.6 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M02" neljänneksellä 2.7 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M02" neljänneksellä 5.1 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M02" neljänneksellä 5.9 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M02" neljänneksellä 7.9 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2018M02" neljänneksellä 2.7 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto supistui "2018M02" neljänneksellä -0.9 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M02" neljänneksellä 5.0 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M02" neljänneksellä -7.1 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M02" neljänneksellä 5.2 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M02" neljänneksellä 5.4 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M02" neljänneksellä 3.0 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M02" neljänneksellä -12.1 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M02" neljänneksellä 9.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M02" neljänneksellä -11.3 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M02" neljänneksellä 2.0 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M02" neljänneksellä 13.8 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M02" neljänneksellä 9.3 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M02" neljänneksellä 8.3 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M02" neljänneksellä 2.8 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M02" neljänneksellä 15.7 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M02" neljänneksellä 1.8 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M02" neljänneksellä 11.1 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M03" neljänneksellä 1.7 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M03" neljänneksellä 1.3 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M03" neljänneksellä 2.9 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M03" neljänneksellä 0.7 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M03" neljänneksellä 1.2 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M03" neljänneksellä 1.9 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M03" neljänneksellä 6.0 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M03" neljänneksellä -1.6 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto supistui "2018M03" neljänneksellä -0.4 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto supistui "2018M03" neljänneksellä -1.2 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M03" neljänneksellä -0.8 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M03" neljänneksellä 0.2 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M03" neljänneksellä 3.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M03" neljänneksellä 2.7 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M03" neljänneksellä -8.5 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto supistui "2018M03" neljänneksellä -8.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2018M03" neljänneksellä 1.0 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2018M03" neljänneksellä -1.2 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M03" neljänneksellä 6.6 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M03" neljänneksellä 12.5 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M03" neljänneksellä 5.3 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M03" neljänneksellä 3.3 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2018M03" neljänneksellä -10.3 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2018M03" neljänneksellä -0.9 prosenttia. 
+Toimialan tekn. testaus  liikevaihto supistui "2018M03" neljänneksellä -2.4 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M04" neljänneksellä 6.0 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M04" neljänneksellä 7.1 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M04" neljänneksellä 5.8 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M04" neljänneksellä 2.7 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M04" neljänneksellä 4.4 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M04" neljänneksellä 10.5 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M04" neljänneksellä 10.6 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M04" neljänneksellä -2.6 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M04" neljänneksellä 3.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M04" neljänneksellä 8.5 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M04" neljänneksellä -2.9 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M04" neljänneksellä 9.9 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M04" neljänneksellä 5.7 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M04" neljänneksellä 5.8 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M04" neljänneksellä -11.3 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto supistui "2018M04" neljänneksellä -4.2 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M04" neljänneksellä -8.6 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M04" neljänneksellä 1.7 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M04" neljänneksellä 13.1 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M04" neljänneksellä 8.1 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M04" neljänneksellä 13.0 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M04" neljänneksellä 9.1 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M04" neljänneksellä 19.2 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M04" neljänneksellä 3.1 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M04" neljänneksellä 9.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M05" neljänneksellä 4.3 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M05" neljänneksellä 3.9 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M05" neljänneksellä 6.7 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M05" neljänneksellä 1.0 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M05" neljänneksellä 5.5 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M05" neljänneksellä 4.8 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M05" neljänneksellä 9.8 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2018M05" neljänneksellä 1.1 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M05" neljänneksellä 1.8 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M05" neljänneksellä 4.3 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M05" neljänneksellä -0.6 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M05" neljänneksellä 3.9 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M05" neljänneksellä 3.9 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M05" neljänneksellä 7.5 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M05" neljänneksellä -11.8 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto supistui "2018M05" neljänneksellä -7.9 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M05" neljänneksellä -2.8 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M05" neljänneksellä 0.8 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M05" neljänneksellä 9.6 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M05" neljänneksellä 8.7 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M05" neljänneksellä 5.8 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M05" neljänneksellä 0.8 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M05" neljänneksellä 17.0 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M05" neljänneksellä 6.7 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M05" neljänneksellä 7.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M06" neljänneksellä 4.9 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M06" neljänneksellä 4.0 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M06" neljänneksellä 4.7 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M06" neljänneksellä 3.3 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M06" neljänneksellä 4.2 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M06" neljänneksellä 5.8 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M06" neljänneksellä 6.6 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2018M06" neljänneksellä 13.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto supistui "2018M06" neljänneksellä -2.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M06" neljänneksellä 4.7 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M06" neljänneksellä -0.3 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M06" neljänneksellä 1.2 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M06" neljänneksellä 0.2 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M06" neljänneksellä 6.1 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M06" neljänneksellä -4.7 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto supistui "2018M06" neljänneksellä -10.0 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M06" neljänneksellä -6.9 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M06" neljänneksellä 1.5 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M06" neljänneksellä 10.4 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M06" neljänneksellä 6.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M06" neljänneksellä 5.8 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M06" neljänneksellä 6.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M06" neljänneksellä 5.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M06" neljänneksellä 1.4 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M06" neljänneksellä 10.5 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M07" neljänneksellä 5.4 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M07" neljänneksellä 5.6 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M07" neljänneksellä 2.4 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M07" neljänneksellä 5.5 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M07" neljänneksellä 3.9 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M07" neljänneksellä 9.6 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M07" neljänneksellä 7.5 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M07" neljänneksellä -1.7 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M07" neljänneksellä 3.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M07" neljänneksellä 6.6 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M07" neljänneksellä -0.7 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M07" neljänneksellä 6.7 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M07" neljänneksellä 2.3 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M07" neljänneksellä 2.4 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M07" neljänneksellä -3.6 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M07" neljänneksellä 11.2 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M07" neljänneksellä -7.2 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M07" neljänneksellä 1.9 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M07" neljänneksellä 15.0 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M07" neljänneksellä 6.6 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M07" neljänneksellä 11.0 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M07" neljänneksellä 6.6 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M07" neljänneksellä 35.8 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M07" neljänneksellä 10.4 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M07" neljänneksellä 1.6 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M08" neljänneksellä 5.1 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M08" neljänneksellä 4.0 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 6.5 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M08" neljänneksellä 6.7 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M08" neljänneksellä 5.0 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M08" neljänneksellä 4.4 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 7.2 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M08" neljänneksellä -1.0 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 4.1 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M08" neljänneksellä 4.2 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2018M08" neljänneksellä 2.2 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M08" neljänneksellä 3.6 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M08" neljänneksellä 1.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 8.1 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 1.4 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M08" neljänneksellä 21.2 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M08" neljänneksellä -7.3 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 2.7 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M08" neljänneksellä 10.3 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M08" neljänneksellä 16.1 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M08" neljänneksellä 11.2 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto supistui "2018M08" neljänneksellä -1.4 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M08" neljänneksellä 13.0 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M08" neljänneksellä 2.7 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M08" neljänneksellä 2.9 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M09" neljänneksellä 2.7 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M09" neljänneksellä 1.8 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M09" neljänneksellä 2.3 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M09" neljänneksellä 5.2 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M09" neljänneksellä 2.2 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M09" neljänneksellä 4.8 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M09" neljänneksellä 2.1 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M09" neljänneksellä -4.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto supistui "2018M09" neljänneksellä -0.2 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M09" neljänneksellä 1.5 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2018M09" neljänneksellä 5.9 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M09" neljänneksellä 0.6 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto ei kasvanut eikä supistunut "2018M09" neljänneksellä.
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M09" neljänneksellä 3.0 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M09" neljänneksellä -1.7 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M09" neljänneksellä 15.7 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M09" neljänneksellä -9.4 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M09" neljänneksellä 0.9 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M09" neljänneksellä 8.8 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M09" neljänneksellä 18.1 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M09" neljänneksellä 2.2 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M09" neljänneksellä 5.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M09" neljänneksellä 19.5 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M09" neljänneksellä 4.8 prosenttia. 
+Toimialan tekn. testaus  liikevaihto supistui "2018M09" neljänneksellä -1.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M10" neljänneksellä 6.0 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M10" neljänneksellä 4.1 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M10" neljänneksellä 5.7 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M10" neljänneksellä 8.7 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M10" neljänneksellä 5.0 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M10" neljänneksellä 9.0 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M10" neljänneksellä 6.2 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M10" neljänneksellä -1.6 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M10" neljänneksellä 5.1 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M10" neljänneksellä 5.3 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2018M10" neljänneksellä -0.2 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M10" neljänneksellä 4.1 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M10" neljänneksellä 3.3 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M10" neljänneksellä 6.4 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M10" neljänneksellä -1.4 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M10" neljänneksellä 7.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M10" neljänneksellä -4.5 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2018M10" neljänneksellä 2.9 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M10" neljänneksellä 17.3 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M10" neljänneksellä 14.3 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M10" neljänneksellä 8.8 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M10" neljänneksellä 10.3 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M10" neljänneksellä 23.7 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M10" neljänneksellä 2.3 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M10" neljänneksellä 3.4 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M11" neljänneksellä 4.9 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M11" neljänneksellä 3.4 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M11" neljänneksellä 5.5 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M11" neljänneksellä 7.3 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M11" neljänneksellä 5.8 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M11" neljänneksellä 4.4 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M11" neljänneksellä 5.0 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2018M11" neljänneksellä 0.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M11" neljänneksellä 6.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M11" neljänneksellä 5.2 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2018M11" neljänneksellä 5.5 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M11" neljänneksellä 3.9 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M11" neljänneksellä 2.6 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M11" neljänneksellä 6.4 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2018M11" neljänneksellä 0.6 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2018M11" neljänneksellä 8.1 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M11" neljänneksellä -7.3 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2018M11" neljänneksellä -0.5 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M11" neljänneksellä 12.2 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M11" neljänneksellä 25.8 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M11" neljänneksellä 4.2 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M11" neljänneksellä 4.4 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M11" neljänneksellä 16.3 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M11" neljänneksellä 0.5 prosenttia. 
+Toimialan tekn. testaus  liikevaihto supistui "2018M11" neljänneksellä -1.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2018M12" neljänneksellä 3.3 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2018M12" neljänneksellä 2.9 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2018M12" neljänneksellä 1.8 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2018M12" neljänneksellä 1.8 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2018M12" neljänneksellä 8.2 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2018M12" neljänneksellä 5.0 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2018M12" neljänneksellä 2.6 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2018M12" neljänneksellä -0.8 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2018M12" neljänneksellä 1.0 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2018M12" neljänneksellä 2.4 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2018M12" neljänneksellä 4.9 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2018M12" neljänneksellä 1.1 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2018M12" neljänneksellä 1.3 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2018M12" neljänneksellä 2.0 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2018M12" neljänneksellä -7.6 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto supistui "2018M12" neljänneksellä -12.6 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2018M12" neljänneksellä -6.2 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2018M12" neljänneksellä -2.1 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2018M12" neljänneksellä 9.6 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2018M12" neljänneksellä 5.2 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2018M12" neljänneksellä 2.1 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2018M12" neljänneksellä 6.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2018M12" neljänneksellä 16.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2018M12" neljänneksellä 2.9 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2018M12" neljänneksellä 0.8 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M01" neljänneksellä 4.6 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M01" neljänneksellä 4.1 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M01" neljänneksellä 3.4 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M01" neljänneksellä 7.0 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M01" neljänneksellä 5.9 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M01" neljänneksellä 3.0 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M01" neljänneksellä 3.6 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M01" neljänneksellä 2.5 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M01" neljänneksellä 3.6 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M01" neljänneksellä 4.3 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M01" neljänneksellä 5.3 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M01" neljänneksellä 5.0 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M01" neljänneksellä 2.6 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M01" neljänneksellä 3.7 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2019M01" neljänneksellä -6.4 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M01" neljänneksellä 8.5 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M01" neljänneksellä 5.0 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M01" neljänneksellä -0.1 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M01" neljänneksellä 15.0 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M01" neljänneksellä 15.3 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M01" neljänneksellä 7.5 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto supistui "2019M01" neljänneksellä -0.8 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2019M01" neljänneksellä 6.2 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M01" neljänneksellä -0.1 prosenttia. 
+Toimialan tekn. testaus  liikevaihto supistui "2019M01" neljänneksellä -0.7 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M02" neljänneksellä 5.2 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M02" neljänneksellä 3.3 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M02" neljänneksellä 5.9 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M02" neljänneksellä 6.8 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M02" neljänneksellä 3.0 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M02" neljänneksellä 7.0 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M02" neljänneksellä 6.0 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M02" neljänneksellä 1.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M02" neljänneksellä 7.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M02" neljänneksellä 3.3 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M02" neljänneksellä 7.4 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M02" neljänneksellä 5.3 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M02" neljänneksellä 3.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M02" neljänneksellä 6.6 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2019M02" neljänneksellä -2.3 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M02" neljänneksellä 11.7 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2019M02" neljänneksellä -1.4 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2019M02" neljänneksellä 2.1 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M02" neljänneksellä 13.2 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M02" neljänneksellä 11.8 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M02" neljänneksellä 7.9 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M02" neljänneksellä 9.6 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2019M02" neljänneksellä 6.4 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M02" neljänneksellä -0.1 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M02" neljänneksellä 1.4 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M03" neljänneksellä 4.2 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M03" neljänneksellä 3.8 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M03" neljänneksellä 6.5 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M03" neljänneksellä 3.8 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M03" neljänneksellä 5.3 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M03" neljänneksellä 4.5 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M03" neljänneksellä 5.2 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2019M03" neljänneksellä -2.0 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M03" neljänneksellä 4.5 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M03" neljänneksellä 3.8 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M03" neljänneksellä 10.2 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M03" neljänneksellä 3.8 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M03" neljänneksellä 3.0 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M03" neljänneksellä 7.5 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2019M03" neljänneksellä -4.1 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M03" neljänneksellä 3.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2019M03" neljänneksellä -6.9 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2019M03" neljänneksellä 0.1 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M03" neljänneksellä 12.1 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto supistui "2019M03" neljänneksellä -3.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M03" neljänneksellä 4.8 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M03" neljänneksellä 4.2 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2019M03" neljänneksellä 11.9 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2019M03" neljänneksellä 0.3 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M03" neljänneksellä 3.0 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M04" neljänneksellä 6.5 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M04" neljänneksellä 5.2 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M04" neljänneksellä 4.2 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M04" neljänneksellä 8.1 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M04" neljänneksellä 5.2 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M04" neljänneksellä 7.3 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M04" neljänneksellä 9.0 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M04" neljänneksellä 3.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M04" neljänneksellä 7.1 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M04" neljänneksellä 4.1 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M04" neljänneksellä 6.1 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M04" neljänneksellä 3.7 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto supistui "2019M04" neljänneksellä -1.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M04" neljänneksellä 5.7 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M04" neljänneksellä 5.7 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M04" neljänneksellä 17.5 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M04" neljänneksellä 7.3 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M04" neljänneksellä -0.6 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M04" neljänneksellä 13.8 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M04" neljänneksellä 3.3 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M04" neljänneksellä 6.7 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M04" neljänneksellä 8.3 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2019M04" neljänneksellä 5.7 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2019M04" neljänneksellä 8.6 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M04" neljänneksellä 4.0 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M05" neljänneksellä 4.8 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M05" neljänneksellä 4.3 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 4.8 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M05" neljänneksellä 7.0 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M05" neljänneksellä 4.0 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M05" neljänneksellä 3.7 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 4.8 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M05" neljänneksellä 2.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 2.6 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M05" neljänneksellä 2.3 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M05" neljänneksellä 8.6 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M05" neljänneksellä 2.9 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M05" neljänneksellä 6.3 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 4.4 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 5.9 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M05" neljänneksellä 13.9 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M05" neljänneksellä 4.7 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 0.3 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M05" neljänneksellä 10.5 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M05" neljänneksellä 7.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M05" neljänneksellä 7.2 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M05" neljänneksellä 3.6 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M05" neljänneksellä -5.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M05" neljänneksellä -3.0 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M05" neljänneksellä 8.2 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M06" neljänneksellä 2.1 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M06" neljänneksellä 0.2 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M06" neljänneksellä 4.8 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M06" neljänneksellä 2.8 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M06" neljänneksellä 2.1 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M06" neljänneksellä 2.2 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M06" neljänneksellä 5.1 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2019M06" neljänneksellä -5.4 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M06" neljänneksellä 1.4 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto supistui "2019M06" neljänneksellä -2.5 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M06" neljänneksellä 0.7 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M06" neljänneksellä 0.6 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M06" neljänneksellä 6.4 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M06" neljänneksellä 4.3 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto supistui "2019M06" neljänneksellä -1.0 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M06" neljänneksellä 13.3 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M06" neljänneksellä 11.1 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M06" neljänneksellä -4.0 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M06" neljänneksellä 8.2 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto supistui "2019M06" neljänneksellä -4.0 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M06" neljänneksellä 5.1 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M06" neljänneksellä 0.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M06" neljänneksellä -2.5 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M06" neljänneksellä -0.5 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M06" neljänneksellä 6.3 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M07" neljänneksellä 6.9 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M07" neljänneksellä 5.6 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M07" neljänneksellä 5.5 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M07" neljänneksellä 9.1 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M07" neljänneksellä 4.7 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M07" neljänneksellä 6.1 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M07" neljänneksellä 8.4 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M07" neljänneksellä 11.0 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M07" neljänneksellä 6.5 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M07" neljänneksellä 4.9 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M07" neljänneksellä 5.8 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M07" neljänneksellä 5.9 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M07" neljänneksellä 3.5 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M07" neljänneksellä 6.1 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M07" neljänneksellä 6.7 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M07" neljänneksellä 24.6 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M07" neljänneksellä 9.2 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M07" neljänneksellä -1.7 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M07" neljänneksellä 17.2 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M07" neljänneksellä 5.8 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M07" neljänneksellä 11.4 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M07" neljänneksellä 2.4 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M07" neljänneksellä -3.6 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto kasvoi "2019M07" neljänneksellä 3.2 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M07" neljänneksellä 12.7 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M08" neljänneksellä 4.0 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M08" neljänneksellä 1.3 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M08" neljänneksellä 7.1 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M08" neljänneksellä 5.6 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M08" neljänneksellä 3.4 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M08" neljänneksellä 3.4 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M08" neljänneksellä 4.7 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M08" neljänneksellä 8.0 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M08" neljänneksellä 4.6 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M08" neljänneksellä 0.5 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M08" neljänneksellä 5.4 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M08" neljänneksellä 0.3 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M08" neljänneksellä 6.0 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M08" neljänneksellä 7.3 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M08" neljänneksellä 2.0 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M08" neljänneksellä 7.2 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M08" neljänneksellä 1.8 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M08" neljänneksellä -0.4 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M08" neljänneksellä 9.6 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M08" neljänneksellä 10.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M08" neljänneksellä 5.0 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M08" neljänneksellä 7.3 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M08" neljänneksellä -16.4 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M08" neljänneksellä -3.4 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M08" neljänneksellä 5.2 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M09" neljänneksellä 6.2 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M09" neljänneksellä 3.5 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 6.3 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M09" neljänneksellä 8.8 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M09" neljänneksellä 5.0 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M09" neljänneksellä 5.2 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 8.4 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M09" neljänneksellä 9.0 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 5.2 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M09" neljänneksellä 4.4 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M09" neljänneksellä 1.2 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M09" neljänneksellä 3.4 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M09" neljänneksellä 11.9 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 4.7 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 8.2 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M09" neljänneksellä 14.5 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M09" neljänneksellä 3.3 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 0.2 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M09" neljänneksellä 16.2 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto supistui "2019M09" neljänneksellä -2.5 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M09" neljänneksellä 11.2 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M09" neljänneksellä 3.6 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M09" neljänneksellä -6.1 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M09" neljänneksellä -3.1 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M09" neljänneksellä 10.7 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M10" neljänneksellä 3.9 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M10" neljänneksellä 2.0 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M10" neljänneksellä 7.4 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M10" neljänneksellä 4.9 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M10" neljänneksellä 6.2 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M10" neljänneksellä 3.2 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M10" neljänneksellä 4.7 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M10" neljänneksellä 0.2 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M10" neljänneksellä 3.0 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M10" neljänneksellä 1.8 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto kasvoi "2019M10" neljänneksellä 7.6 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M10" neljänneksellä 0.9 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M10" neljänneksellä 12.2 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M10" neljänneksellä 6.1 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M10" neljänneksellä 3.0 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M10" neljänneksellä 10.4 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2019M10" neljänneksellä 1.2 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M10" neljänneksellä -0.2 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M10" neljänneksellä 8.7 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto supistui "2019M10" neljänneksellä -0.1 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M10" neljänneksellä 4.6 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M10" neljänneksellä 6.0 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M10" neljänneksellä -11.9 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M10" neljänneksellä -3.4 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M10" neljänneksellä 6.5 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M11" neljänneksellä 0.9 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto supistui "2019M11" neljänneksellä -3.8 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M11" neljänneksellä 7.6 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M11" neljänneksellä 0.3 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M11" neljänneksellä 4.0 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M11" neljänneksellä 2.1 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M11" neljänneksellä 3.2 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto kasvoi "2019M11" neljänneksellä 1.3 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto supistui "2019M11" neljänneksellä -0.5 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto supistui "2019M11" neljänneksellä -2.4 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2019M11" neljänneksellä -4.3 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto supistui "2019M11" neljänneksellä -4.5 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M11" neljänneksellä 9.7 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M11" neljänneksellä 7.0 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M11" neljänneksellä 2.2 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto supistui "2019M11" neljänneksellä -1.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2019M11" neljänneksellä -2.4 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M11" neljänneksellä -1.3 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M11" neljänneksellä 5.1 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto supistui "2019M11" neljänneksellä -19.0 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M11" neljänneksellä 7.7 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2019M11" neljänneksellä 1.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2019M11" neljänneksellä -6.4 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M11" neljänneksellä -6.3 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M11" neljänneksellä 2.6 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2019M12" neljänneksellä 3.3 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2019M12" neljänneksellä 2.4 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2019M12" neljänneksellä 1.2 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2019M12" neljänneksellä 7.2 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2019M12" neljänneksellä 1.8 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2019M12" neljänneksellä 3.8 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2019M12" neljänneksellä 2.8 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2019M12" neljänneksellä -5.7 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2019M12" neljänneksellä 2.7 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2019M12" neljänneksellä 1.9 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2019M12" neljänneksellä -1.1 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2019M12" neljänneksellä 3.4 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2019M12" neljänneksellä 2.4 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2019M12" neljänneksellä 0.8 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2019M12" neljänneksellä 10.6 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2019M12" neljänneksellä 6.2 prosenttia. 
+Toimialan musiikin kust  liikevaihto supistui "2019M12" neljänneksellä -0.5 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto supistui "2019M12" neljänneksellä -0.5 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2019M12" neljänneksellä 11.0 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2019M12" neljänneksellä 1.4 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2019M12" neljänneksellä 8.0 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto supistui "2019M12" neljänneksellä -0.7 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto kasvoi "2019M12" neljänneksellä 8.8 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2019M12" neljänneksellä -4.7 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2019M12" neljänneksellä 15.2 prosenttia. 
+Toimialan HIJLMNRS Muut palvelut  liikevaihto kasvoi "2020M01*" neljänneksellä 3.2 prosenttia. 
+Toimialan H Kuljetus ja varastointi  liikevaihto kasvoi "2020M01*" neljänneksellä 1.7 prosenttia. 
+Toimialan I Majoitus- ja ravitsemistoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 5.2 prosenttia. 
+Toimialan J Informaatio ja viestintä  liikevaihto kasvoi "2020M01*" neljänneksellä 5.0 prosenttia. 
+Toimialan L=68 Kiinteistöalan toiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 3.8 prosenttia. 
+Toimialan M Ammatillinen, tieteellinen ja tekninen toiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 2.2 prosenttia. 
+Toimialan N Hallinto- ja tukipalvelutoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 3.6 prosenttia. 
+Toimialan R Taiteet, viihde ja virkistys  liikevaihto supistui "2020M01*" neljänneksellä -0.2 prosenttia. 
+Toimialan S Muu palvelutoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 3.3 prosenttia. 
+Toimialan 49 Maa- ja rautatieliikenne  liikevaihto kasvoi "2020M01*" neljänneksellä 2.3 prosenttia. 
+Toimialan 50 Vesiliikenne  liikevaihto supistui "2020M01*" neljänneksellä -0.3 prosenttia. 
+Toimialan 52 Varastointi ja liikennettä palveleva toiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 0.3 prosenttia. 
+Toimialan 55 Majoitus  liikevaihto kasvoi "2020M01*" neljänneksellä 4.0 prosenttia. 
+Toimialan 56 Ravitsemistoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 5.6 prosenttia. 
+Toimialan 58 Kustannustoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 8.4 prosenttia. 
+Toimialan 59 Elokuv, TV-ohj. tuot  liikevaihto kasvoi "2020M01*" neljänneksellä 13.8 prosenttia. 
+Toimialan musiikin kust  liikevaihto kasvoi "2020M01*" neljänneksellä 3.4 prosenttia. 
+Toimialan 60 Radio- ja televisiotoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 3.9 prosenttia. 
+Toimialan 61 Televiestintä  liikevaihto kasvoi "2020M01*" neljänneksellä 4.1 prosenttia. 
+Toimialan 62 Ohjelmistot, konsultointi ja siihen liittyvä toiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 2.6 prosenttia. 
+Toimialan 63 Tietopalvelutoiminta  liikevaihto kasvoi "2020M01*" neljänneksellä 4.4 prosenttia. 
+Toimialan 69-702 Lakiasiain- ja laskentatoimen palv.  liikevaihto kasvoi "2020M01*" neljänneksellä 1.5 prosenttia. 
+Toimialan liikk.johdon konsult.  liikevaihto supistui "2020M01*" neljänneksellä -4.5 prosenttia. 
+Toimialan 71 Arkkit.- ja ins.palv  liikevaihto supistui "2020M01*" neljänneksellä -2.7 prosenttia. 
+Toimialan tekn. testaus  liikevaihto kasvoi "2020M01*" neljänneksellä 7.5 prosenttia. 
