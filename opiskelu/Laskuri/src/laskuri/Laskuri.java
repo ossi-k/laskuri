@@ -25,7 +25,11 @@ public class Laskuri{
     		this.tapahtumia = 0;
   	}
 	public String toString(){
-		return "Laskurin lukema on " + this.tapahtumia;
+		return "Lukema: " + this.tapahtumia;
 	}
+        
+        public void lisaa(int lisays) {
+            this.tapahtumia = this.tapahtumia + lisays;
+        }
 
 }
