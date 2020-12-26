@@ -31,5 +31,7 @@ public class Laskuri{
         public void lisaa(int lisays) {
             this.tapahtumia = this.tapahtumia + lisays;
         }
+	
+	/*Lisätty tämä githubissa*/
 
 }
