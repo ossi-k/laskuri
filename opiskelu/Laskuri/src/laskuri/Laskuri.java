@@ -27,5 +27,9 @@ public class Laskuri{
 	public String toString(){
 		return "Laskurin lukema on " + this.tapahtumia;
 	}
+        
+        public void lisaaKahdella() {
+            this.tapahtumia = this.tapahtumia + 2;
+        }
 
 }
